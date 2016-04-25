@@ -17,7 +17,7 @@ git add README.md
 
 npm init
 git add package.json
-?? npm install jquery --save
+npm install jquery --save
 npm install typescript typings --save
 npm install webpack ts-loader --save
 
@@ -35,7 +35,7 @@ git add typings.json
 
 DESDE REPOSITORIO BAJADO
 
-git co https://github.com/rpuchadm/portal_test_00.git
+git clone https://github.com/rpuchadm/portal_test_00.git
 cd portal_test_00
 npm install
 bower install
