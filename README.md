@@ -39,3 +39,7 @@ git co XXXXXXXXXXXXXXXXX
 cd portal_test_01
 npm install
 bower install
+
+--------------------------------
+
+webpack-dev-server --progress --colors

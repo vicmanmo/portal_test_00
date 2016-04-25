@@ -9,7 +9,7 @@
     },
     "files":[
       "src/main.ts",
-      "typings/browser/ambient/jquery/index.d.ts"
+      "typings/browser/*"
     ],
     "exclude": [
         "node_modules",
