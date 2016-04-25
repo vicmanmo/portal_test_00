@@ -7,7 +7,12 @@
         "rootDir": ".",
         "sourceMap": false
     },
+    "files":[
+      "src/main.ts",
+      "typings/browser/ambient/jquery/index.d.ts"
+    ],
     "exclude": [
-        "node_modules"
+        "node_modules",
+        "typings/main"
     ]
 }
