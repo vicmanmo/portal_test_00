@@ -1,0 +1,15 @@
+{
+  "name": "portal_test_00",
+  "version": "0.0.0",
+  "authors": [
+    "Rafael Puchades <rpuchadm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
