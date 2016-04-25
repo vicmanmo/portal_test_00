@@ -35,8 +35,8 @@ git add typings.json
 
 DESDE REPOSITORIO BAJADO
 
-git co XXXXXXXXXXXXXXXXX
-cd portal_test_01
+git co https://github.com/rpuchadm/portal_test_00.git
+cd portal_test_00
 npm install
 bower install
 
